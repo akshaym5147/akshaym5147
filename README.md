@@ -32,9 +32,9 @@
 
 ## 📈 GitHub Stats
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaymuge&show_icons=true&theme=tokyonight)
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaym5147&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaymuge&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaym5147&layout=compact&theme=tokyonight)
 
 ---
 
