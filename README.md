@@ -1,20 +1,56 @@
-# 👋 Hi there, I'm Akshay Muge
+# 👋 Hello! I'm Akshay Muge
 
-## 🚀 About Me
-Senior Software Engineer with 5+ years of experience in scalable frontend & full-stack development. Skilled in React, React Native, JavaScript/TypeScript, Node.js, and AWS. I enjoy building impactful products and optimizing app performance.
+🚀 Passionate Software Engineer with 5+ years of experience crafting high-performance, scalable web and mobile applications. I thrive on solving complex problems with simple, clean code and enjoy collaborating in agile, cross-functional teams.
 
-## 🛠️ Tech Stack
-- **Frontend**: React, Angular, React Native, HTML, CSS, TypeScript, Storybook
-- **Backend**: Node.js (Express), Java
-- **Testing**: Cypress, Jest, Selenium, Cucumber
-- **DevOps**: AWS, Concourse-CI, Grafana, OpenSearch
-- **Databases**: MongoDB, MySQL, PostgreSQL, Firebase
+---
 
-<!--
+## 🧠 What I Do
+
+- 🔧 Build **responsive UI** and **modular frontend architecture** using React, React Native, and TypeScript
+- ⚙️ Design and optimize **full-stack features**, integrating RESTful APIs and managing state efficiently
+- 🧪 Champion **automated testing** using tools like Cypress, Jest, and Selenium for better product quality
+- 🚀 Improve application performance, reducing load time and enhancing UX for thousands of users
+- 🔍 Monitor and troubleshoot production issues using tools like Grafana, OpenSearch, and New Relic
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+`React` • `React Native` • `AngularJS` • `TypeScript` • `JavaScript (ES6+)` • `HTML5` • `SCSS` • `Storybook`
+
+**Backend & Infra**  
+`Node.js (Express)` • `Java` • `MongoDB` • `MySQL` • `PostgreSQL` • `Firebase` • `AWS`
+
+**Testing & Automation**  
+`Cypress` • `Jest` • `Selenium` • `Cucumber` • `Applitools` • `Axe`
+
+**Tooling**  
+`Git` • `Bitbucket` • `Vite` • `Webpack` • `Grafana` • `OpenSearch` • `Concourse-CI` • `New Relic` • `Sentry`
+
+---
+
 ## 📈 GitHub Stats
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaymuge&show_icons=true&theme=tokyonight)
--->
 
-## 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/akshay-m-b64957169/)
-- 📧 akshaymuge888@gmail.com
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaymuge&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaymuge&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+- 🔄 Distributed systems & performance at scale
+- ⚡ Advanced TypeScript & functional patterns
+- 🧠 AI & ML integrations into real-time apps
+
+---
+
+## 📬 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshay--m--b64957169-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-m-b64957169/)  
+📫 akshaymuge888@gmail.com
+
+---
+
+_“Build things that make other people better at what they do.”_
