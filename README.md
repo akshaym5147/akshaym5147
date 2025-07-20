@@ -7,15 +7,6 @@
 ## 🚀 About Me
 🚀 Passionate Software Engineer with 5+ years of experience crafting high-performance, scalable web and mobile applications. I thrive on solving complex problems with simple, clean code and enjoy collaborating in agile, cross-functional teams.
 
-
-
-- 🔭 Currently working as **Team Anchor** leading technical decisions across 7+ product teams
-- 🌱 Specializing in **performance optimization** and **test automation frameworks**
-- 👯 Looking to collaborate on **educational technology** and **content creation platforms**
-- 💬 Ask me about **React, Performance Optimization, Test Automation, Team Leadership**
-- 📫 How to reach me: **akshaymuge888@gmail.com**
-- 📍 Based in **Mumbai, India**
-
 ---
 
 ## 🛠️ Tech Stack
