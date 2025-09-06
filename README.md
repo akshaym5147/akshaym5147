@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-🚀 Passionate Software Engineer with 5+ years of experience crafting high-performance, scalable web and mobile applications. I thrive on solving complex problems with simple, clean code and enjoy collaborating in agile, cross-functional teams.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -108,15 +105,3 @@
 </div>
 
 ---
-
-## 💼 Open to Opportunities
-
-I'm always interested in discussing:
-- **Senior/Lead Software Engineer** roles in EdTech or high-growth startups
-- **Technical Leadership** positions with mentoring opportunities
-- **Performance Engineering** and large-scale optimization challenges
-- **Educational Technology** innovations and content creation platforms
-- **Team Leadership** roles in agile, cross-functional environments
-- **Open Source Collaboration** on developer tools and educational platforms
-
-*Feel free to reach out if you'd like to collaborate or discuss technology!*
